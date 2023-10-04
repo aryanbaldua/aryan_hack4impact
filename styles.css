@@ -173,7 +173,7 @@ main {
   justify-content: space-between;
   padding: 20px;
   background-color: #f8f8f8;
-  border: 1px solid #ccc;
+  border: 2px dashed #bf94e4;
   border-radius: 5px;
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
@@ -261,4 +261,9 @@ form {
   bottom: 0;
   width: 100%;
   height: 2.5rem;
+}
+
+.welcome {
+  color: #bf94e4;
+  font-weight: bold;
 }
