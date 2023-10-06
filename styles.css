@@ -34,7 +34,7 @@ body {
   align-items: center;
   text-align: center;
 
-  background-color: var(--cg-black);
+  background-color: #5c4033;
   color: var(--cg-white);
   padding: 0px 0px;
 
@@ -54,7 +54,7 @@ body {
 }
 
 .navbar a {
-  color: var(--cg-white);
+  color: #734f96;
   font-weight: bold;
   margin: 0 12px;
   text-decoration: none;
@@ -175,6 +175,7 @@ main {
   background-color: #f8f8f8;
   border: 2px dashed #bf94e4;
   border-radius: 5px;
+  margin-bottom: 5px;
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
 
@@ -187,6 +188,7 @@ main {
 .about-text {
   flex: 1;
   margin-left: 20px;
+  margin-bottom: 5px;
 }
 
 .about-text h2 {
@@ -255,7 +257,7 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--cg-black);
+  background-color: #5c4033;
   color: var(--cg-white);
   position: absolute;
   bottom: 0;
